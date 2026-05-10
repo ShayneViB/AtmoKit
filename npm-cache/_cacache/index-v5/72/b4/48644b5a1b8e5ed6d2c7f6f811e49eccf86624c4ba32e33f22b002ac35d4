@@ -1,2 +1,0 @@
-
-89a49ce654fa592c3a865cfc1504c62d92aa43c0	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/convert-source-map","integrity":null,"time":1778147196943,"size":"262","metadata":{"time":1778147196943,"url":"http://registry.npm.taobao.org/convert-source-map","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:36 GMT","location":"https://registry.npmmirror.com/convert-source-map"},"options":{"compress":true},"status":301}}

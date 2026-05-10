@@ -1,2 +1,0 @@
-
-bd801089e7d1fc330cc960ae09457dd6d0cc2a76	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/d3-array","integrity":null,"time":1778207534309,"size":"262","metadata":{"time":1778207534309,"url":"http://registry.npm.taobao.org/d3-array","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/d3-array"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-47bcfa708456a27b0486dfb2d151348cac06803f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rolldown%2fbinding-darwin-arm64","integrity":null,"time":1778147198521,"size":"262","metadata":{"time":1778147198521,"url":"http://registry.npm.taobao.org/@rolldown%2fbinding-darwin-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:38 GMT","location":"https://registry.npmmirror.com/@rolldown%2fbinding-darwin-arm64"},"options":{"compress":true},"status":301}}

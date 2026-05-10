@@ -1,2 +1,0 @@
-
-80c5ec210ac70f359733765cbe97781566cf1a04	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/recharts-scale","integrity":null,"time":1778207534020,"size":"262","metadata":{"time":1778207534020,"url":"http://registry.npm.taobao.org/recharts-scale","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/recharts-scale"},"options":{"compress":true},"status":301}}

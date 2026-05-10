@@ -1,2 +1,0 @@
-
-1e51db5610481d3ece046b6ef52a682293db6c74	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/react","integrity":null,"time":1778147192303,"size":"262","metadata":{"time":1778147192303,"url":"http://registry.npm.taobao.org/react","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:32 GMT","location":"https://registry.npmmirror.com/react"},"options":{"compress":true},"status":301}}

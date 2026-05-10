@@ -1,2 +1,0 @@
-
-474ae6491efd6a36a633b616d79ff7a15f2294ea	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@humanwhocodes%2fretry","integrity":null,"time":1778147195409,"size":"262","metadata":{"time":1778147195409,"url":"http://registry.npm.taobao.org/@humanwhocodes%2fretry","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/@humanwhocodes%2fretry"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-31e6b9dfab8f8e76e18fd2cef7c84ac21cf65155	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/d3-scale","integrity":null,"time":1778207534313,"size":"262","metadata":{"time":1778207534313,"url":"http://registry.npm.taobao.org/d3-scale","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/d3-scale"},"options":{"compress":true},"status":301}}

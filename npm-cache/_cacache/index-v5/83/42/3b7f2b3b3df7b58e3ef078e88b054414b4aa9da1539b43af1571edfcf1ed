@@ -1,2 +1,0 @@
-
-c6fc5bd1cf76947db8c1f88d97c1eab4487d8981	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rolldown%2fbinding-freebsd-x64","integrity":null,"time":1778147198501,"size":"262","metadata":{"time":1778147198501,"url":"http://registry.npm.taobao.org/@rolldown%2fbinding-freebsd-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:38 GMT","location":"https://registry.npmmirror.com/@rolldown%2fbinding-freebsd-x64"},"options":{"compress":true},"status":301}}

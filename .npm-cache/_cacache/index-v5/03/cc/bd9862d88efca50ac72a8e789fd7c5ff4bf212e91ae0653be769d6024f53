@@ -1,2 +1,0 @@
-
-f71b79205e2f5d9029d08312280ca949ac16bd6e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fast-equals","integrity":null,"time":1778207534303,"size":"262","metadata":{"time":1778207534303,"url":"http://registry.npm.taobao.org/fast-equals","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/fast-equals"},"options":{"compress":true},"status":301}}

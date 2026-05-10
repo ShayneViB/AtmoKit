@@ -1,2 +1,0 @@
-
-54ffa09696d740233d0d92b74e980a8807456901	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/clsx","integrity":null,"time":1778207533998,"size":"262","metadata":{"time":1778207533998,"url":"http://registry.npm.taobao.org/clsx","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/clsx"},"options":{"compress":true},"status":301}}

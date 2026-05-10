@@ -1,2 +1,0 @@
-
-77cf44a77ceacd150dacf75b92366db36783d466	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/d3-interpolate","integrity":null,"time":1778207534311,"size":"262","metadata":{"time":1778207534311,"url":"http://registry.npm.taobao.org/d3-interpolate","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/d3-interpolate"},"options":{"compress":true},"status":301}}

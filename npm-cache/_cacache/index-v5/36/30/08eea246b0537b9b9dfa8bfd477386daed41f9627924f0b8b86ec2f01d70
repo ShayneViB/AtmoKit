@@ -1,2 +1,0 @@
-
-21792fb14804024f9df81c0ae06d9649cba53610	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@humanwhocodes%2fmodule-importer","integrity":null,"time":1778147195413,"size":"262","metadata":{"time":1778147195413,"url":"http://registry.npm.taobao.org/@humanwhocodes%2fmodule-importer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/@humanwhocodes%2fmodule-importer"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-0cddf895a7eb82494f8d253e6432d3bd528c95d7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/file-entry-cache","integrity":null,"time":1778147195611,"size":"262","metadata":{"time":1778147195611,"url":"http://registry.npm.taobao.org/file-entry-cache","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/file-entry-cache"},"options":{"compress":true},"status":301}}

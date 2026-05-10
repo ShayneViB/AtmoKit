@@ -1,2 +1,0 @@
-
-6133bea427a165e58c14772e5e5cd84d14e62335	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@eslint%2fjs","integrity":null,"time":1778147193720,"size":"262","metadata":{"time":1778147193720,"url":"http://registry.npm.taobao.org/@eslint%2fjs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:33 GMT","location":"https://registry.npmmirror.com/@eslint%2fjs"},"options":{"compress":true},"status":301}}

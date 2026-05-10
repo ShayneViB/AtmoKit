@@ -1,2 +1,0 @@
-
-70904bb77b344b858f468ca192b3bb94cfa53441	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/hermes-estree","integrity":null,"time":1778147196937,"size":"262","metadata":{"time":1778147196937,"url":"http://registry.npm.taobao.org/hermes-estree","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:36 GMT","location":"https://registry.npmmirror.com/hermes-estree"},"options":{"compress":true},"status":301}}

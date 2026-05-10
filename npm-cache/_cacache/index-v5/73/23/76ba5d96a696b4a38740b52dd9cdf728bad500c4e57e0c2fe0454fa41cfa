@@ -1,2 +1,0 @@
-
-ede239b6b1bbc70864fc050ba29951e1c60caffc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/brace-expansion","integrity":null,"time":1778147196584,"size":"262","metadata":{"time":1778147196584,"url":"http://registry.npm.taobao.org/brace-expansion","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:36 GMT","location":"https://registry.npmmirror.com/brace-expansion"},"options":{"compress":true},"status":301}}

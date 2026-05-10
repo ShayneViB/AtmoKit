@@ -1,2 +1,0 @@
-
-4923f6e19d44e3830c9d77061dde6084a26709c5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/vite","integrity":null,"time":1778147194554,"size":"262","metadata":{"time":1778147194554,"url":"http://registry.npm.taobao.org/vite","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:34 GMT","location":"https://registry.npmmirror.com/vite"},"options":{"compress":true},"status":301}}

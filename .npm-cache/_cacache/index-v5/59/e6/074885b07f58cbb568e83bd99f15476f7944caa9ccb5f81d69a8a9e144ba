@@ -1,2 +1,0 @@
-
-d6f7ac43d17a25caf9646b430f0187d60d7af7dc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/victory-vendor","integrity":null,"time":1778207534018,"size":"262","metadata":{"time":1778207534018,"url":"http://registry.npm.taobao.org/victory-vendor","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/victory-vendor"},"options":{"compress":true},"status":301}}

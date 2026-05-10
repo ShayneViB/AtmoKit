@@ -1,2 +1,0 @@
-
-3f50ac57f885301303b207214eab52a7e184b5e9	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/papaparse","integrity":null,"time":1778147193302,"size":"262","metadata":{"time":1778147193302,"url":"http://registry.npm.taobao.org/papaparse","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:33 GMT","location":"https://registry.npmmirror.com/papaparse"},"options":{"compress":true},"status":301}}

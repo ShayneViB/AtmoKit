@@ -1,2 +1,0 @@
-
-8aeb3c4367b66092629d539d32ce2f4bbc088401	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@babel%2fhelper-string-parser","integrity":null,"time":1778147197138,"size":"262","metadata":{"time":1778147197138,"url":"http://registry.npm.taobao.org/@babel%2fhelper-string-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:37 GMT","location":"https://registry.npmmirror.com/@babel%2fhelper-string-parser"},"options":{"compress":true},"status":301}}
