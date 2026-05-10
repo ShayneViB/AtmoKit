@@ -1,16 +1,40 @@
-# React + Vite
+### 1. 项目概述
+#### 1.1 项目背景
+AtmoKit 是一款专为环境监测与气象预报员设计的专业化空气质量数据处理平台。随着国家环境空气质量标准（如 GB 3095-2026, HJ 633-2026）的更新，预报业务对计算精细度、跨时期标准对比以及实时余量研判提出了更高要求。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### 1.2 核心目标
+- 提供多版本国家标准（旧标、过渡标、新标）的无缝切换计算。
+- 支持批量历史数据的综合评价与达标率统计。
+- 实现实时监测数据的“控制余量”研判，辅助预报员精准决策。
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 2. 功能模块设计
 
-## React Compiler
+#### 2.1 AQI 计算器 (Calculator)
+- **功能描述**：手动输入各项污染物浓度，即时计算分指数 (IAQI) 和总指数 (AQI)。
+- **核心特性**：
+    - 支持 PM2.5, PM10, SO2, NO2, O3, CO 六参数输入。
+    - 自动识别首要污染物。
+    - 提供“历版标准对比”弹窗，直观查看不同阶段限值差异。
+    - 结果以色块环形图展示，符合环保标准色标。
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+#### 2.2 综合数据评价 (Evaluation)
+- **功能描述**：处理长时间序列（如月度、季度、年度）数据，生成统计摘要。
+- **主要指标**：
+    - 污染物平均值（SO2, NO2, PM10, PM2.5）及百分位数（O3 90th, CO 95th）。
+    - 优良天数比例、污染天数比例、重污染天数比例。
+    - 综合指数 (Comprehensive Index) 及各污染物贡献比。
+- **交互与输出**：
+    - 支持 `.xlsx`, `.csv` 模板化导入。
+    - 图表化展示（Pie Chart）：贡献比、首要污染物占比、天数级别占比。
+    - 一键导出统计表格 (Excel) 与分析图表 (PNG)。
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#### 2.3 实时余量研判 (Hourly Tracking)
+- **功能描述**：追踪 24 小时逐小时实况，动态计算当天“保良”或“保级”的剩余控制浓度。
+- **核心特性**：
+    - **热力矩阵**：以城市/站点为横轴，小时为纵轴，利用色阶展示浓度高低。
+    - **余量研判算法**：
+        - **常规参数**：基于 24 小时均值限值，计算后续时段需控制在多少浓度内。
+        - **臭氧 (O3)**：基于 8 小时滑动平均限值，计算未来几小时的极限承载浓度。
+    - **导出**：支持带样式的 Excel 导出，保留热力图色块。
