@@ -1,0 +1,2 @@
+
+9567340b1c88077edf8062769ff0c21a0d11abb2	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/esutils","integrity":null,"time":1778147195585,"size":"262","metadata":{"time":1778147195585,"url":"http://registry.npm.taobao.org/esutils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/esutils"},"options":{"compress":true},"status":301}}

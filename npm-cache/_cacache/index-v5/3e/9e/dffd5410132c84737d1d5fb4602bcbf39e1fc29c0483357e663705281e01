@@ -1,0 +1,2 @@
+
+5b3fe423050e78e24b313c84128070c6af5b1dfa	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/baseline-browser-mapping","integrity":null,"time":1778147197396,"size":"262","metadata":{"time":1778147197396,"url":"http://registry.npm.taobao.org/baseline-browser-mapping","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:37 GMT","location":"https://registry.npmmirror.com/baseline-browser-mapping"},"options":{"compress":true},"status":301}}

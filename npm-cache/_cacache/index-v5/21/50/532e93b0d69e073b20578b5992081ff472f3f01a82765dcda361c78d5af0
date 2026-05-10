@@ -1,0 +1,2 @@
+
+43a134557a56cd3caf97365210426957ffec93a8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@emnapi%2fcore","integrity":null,"time":1778147198875,"size":"262","metadata":{"time":1778147198875,"url":"http://registry.npm.taobao.org/@emnapi%2fcore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:38 GMT","location":"https://registry.npmmirror.com/@emnapi%2fcore"},"options":{"compress":true},"status":301}}

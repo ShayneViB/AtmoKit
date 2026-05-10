@@ -1,0 +1,2 @@
+
+cc130c5a8c94207d770cb8b13105014f497e22fb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cfb","integrity":null,"time":1778207534024,"size":"262","metadata":{"time":1778207534024,"url":"http://registry.npm.taobao.org/cfb","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/cfb"},"options":{"compress":true},"status":301}}

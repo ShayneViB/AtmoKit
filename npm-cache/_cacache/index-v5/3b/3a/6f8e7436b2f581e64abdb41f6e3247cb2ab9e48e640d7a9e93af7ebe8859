@@ -1,0 +1,2 @@
+
+c567257877f1098fb3edc02d8432ff4cd876fa31	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/gensync","integrity":null,"time":1778147196943,"size":"262","metadata":{"time":1778147196943,"url":"http://registry.npm.taobao.org/gensync","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:36 GMT","location":"https://registry.npmmirror.com/gensync"},"options":{"compress":true},"status":301}}

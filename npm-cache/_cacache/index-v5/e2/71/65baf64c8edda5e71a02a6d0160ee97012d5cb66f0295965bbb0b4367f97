@@ -1,0 +1,2 @@
+
+bec8d0eff962995bba89b9f5a703afa2fa42df81	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@humanfs%2fnode","integrity":null,"time":1778147195402,"size":"262","metadata":{"time":1778147195402,"url":"http://registry.npm.taobao.org/@humanfs%2fnode","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/@humanfs%2fnode"},"options":{"compress":true},"status":301}}

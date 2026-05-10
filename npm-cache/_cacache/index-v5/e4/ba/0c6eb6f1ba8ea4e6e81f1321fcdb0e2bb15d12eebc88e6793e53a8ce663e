@@ -1,0 +1,2 @@
+
+6384159e241428f4434cc01026e390f61c38b743	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/ignore","integrity":null,"time":1778147195620,"size":"262","metadata":{"time":1778147195620,"url":"http://registry.npm.taobao.org/ignore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/ignore"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+2b5536ddbfec327c2d6cf630457edfe7d32198ed	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/path-exists","integrity":null,"time":1778147196577,"size":"262","metadata":{"time":1778147196577,"url":"http://registry.npm.taobao.org/path-exists","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:36 GMT","location":"https://registry.npmmirror.com/path-exists"},"options":{"compress":true},"status":301}}

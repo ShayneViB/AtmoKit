@@ -1,0 +1,2 @@
+
+4e3c429a6c11a580ba88d9de6711d0be3ce0b204	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/acorn","integrity":null,"time":1778147196534,"size":"262","metadata":{"time":1778147196534,"url":"http://registry.npm.taobao.org/acorn","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:36 GMT","location":"https://registry.npmmirror.com/acorn"},"options":{"compress":true},"status":301}}

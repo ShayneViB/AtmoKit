@@ -1,0 +1,2 @@
+
+6e2b05b35a3d37fabb50c7eae4c8fd1ef7dcb309	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/frac","integrity":null,"time":1778207534793,"size":"262","metadata":{"time":1778207534793,"url":"http://registry.npm.taobao.org/frac","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:16 GMT","location":"https://registry.npmmirror.com/frac"},"options":{"compress":true},"status":301}}

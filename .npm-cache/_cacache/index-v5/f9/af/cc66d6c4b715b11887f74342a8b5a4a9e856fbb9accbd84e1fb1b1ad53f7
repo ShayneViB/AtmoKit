@@ -1,0 +1,2 @@
+
+e7a9cc27934da5783eb2ccb1f78715a7a32efeac	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/dom-helpers","integrity":null,"time":1778207534475,"size":"262","metadata":{"time":1778207534475,"url":"http://registry.npm.taobao.org/dom-helpers","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Fri, 08 May 2026 02:32:15 GMT","location":"https://registry.npmmirror.com/dom-helpers"},"options":{"compress":true},"status":301}}

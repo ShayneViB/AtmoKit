@@ -1,0 +1,2 @@
+
+1f86e5a9992fa7090e8640439ec3607862cb9fef	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rolldown%2fbinding-linux-x64-gnu","integrity":null,"time":1778147198489,"size":"262","metadata":{"time":1778147198489,"url":"http://registry.npm.taobao.org/@rolldown%2fbinding-linux-x64-gnu","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:38 GMT","location":"https://registry.npmmirror.com/@rolldown%2fbinding-linux-x64-gnu"},"options":{"compress":true},"status":301}}

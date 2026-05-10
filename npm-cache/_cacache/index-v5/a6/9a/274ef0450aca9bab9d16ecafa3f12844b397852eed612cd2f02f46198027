@@ -1,0 +1,2 @@
+
+3bbcafe24b6a86a80343718d32aadce13368bf7b	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/type-check","integrity":null,"time":1778147196595,"size":"262","metadata":{"time":1778147196595,"url":"http://registry.npm.taobao.org/type-check","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:36 GMT","location":"https://registry.npmmirror.com/type-check"},"options":{"compress":true},"status":301}}

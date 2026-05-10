@@ -1,0 +1,2 @@
+
+458b35a55dd059e035397391572cfffd118371d7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/natural-compare","integrity":null,"time":1778147195661,"size":"262","metadata":{"time":1778147195661,"url":"http://registry.npm.taobao.org/natural-compare","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/natural-compare"},"options":{"compress":true},"status":301}}

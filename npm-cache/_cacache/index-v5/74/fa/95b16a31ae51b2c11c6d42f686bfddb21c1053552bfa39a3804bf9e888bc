@@ -1,0 +1,2 @@
+
+557b4844cdb4d63a8f0215efa20d8bb7db2622ea	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vitejs%2fplugin-react","integrity":null,"time":1778147193985,"size":"262","metadata":{"time":1778147193985,"url":"http://registry.npm.taobao.org/@vitejs%2fplugin-react","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:34 GMT","location":"https://registry.npmmirror.com/@vitejs%2fplugin-react"},"options":{"compress":true},"status":301}}

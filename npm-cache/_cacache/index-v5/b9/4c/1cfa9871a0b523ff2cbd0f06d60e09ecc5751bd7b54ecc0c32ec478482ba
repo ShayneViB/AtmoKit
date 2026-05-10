@@ -1,0 +1,2 @@
+
+0692b129f9d42e2f845a86c9c5e413d2dca6f77f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/rolldown","integrity":null,"time":1778147195799,"size":"262","metadata":{"time":1778147195799,"url":"http://registry.npm.taobao.org/rolldown","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/rolldown"},"options":{"compress":true},"status":301}}

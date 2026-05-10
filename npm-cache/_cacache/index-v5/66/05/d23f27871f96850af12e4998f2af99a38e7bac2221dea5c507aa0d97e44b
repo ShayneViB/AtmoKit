@@ -1,0 +1,2 @@
+
+bdaac7514343e31ab6e08d2ae6d77cf3ee7bf90a	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/optionator","integrity":null,"time":1778147195670,"size":"262","metadata":{"time":1778147195670,"url":"http://registry.npm.taobao.org/optionator","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:35 GMT","location":"https://registry.npmmirror.com/optionator"},"options":{"compress":true},"status":301}}

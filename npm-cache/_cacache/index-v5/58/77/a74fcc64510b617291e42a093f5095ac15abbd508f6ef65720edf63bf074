@@ -1,0 +1,2 @@
+
+04d52480087f589bb06ef7b5600e64c7238bb232	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@types%2freact","integrity":null,"time":1778147193790,"size":"262","metadata":{"time":1778147193790,"url":"http://registry.npm.taobao.org/@types%2freact","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Thu, 07 May 2026 09:46:33 GMT","location":"https://registry.npmmirror.com/@types%2freact"},"options":{"compress":true},"status":301}}
